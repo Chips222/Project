@@ -1,0 +1,36 @@
+
+p{
+  color: black;
+  width: 80%;
+  border: 1px solid black;
+  font-size: 15px;  
+  line-height: 2;
+  letter-spacing: 1px;
+  margin-bottom: 0 ;
+  text-indent: 1.5em;
+  margin-top: 0; 
+  padding: 10px;
+  text-align: center;
+  
+   
+
+}
+
+.center-image {
+    text-align: center;
+
+}
+span{background: yellow; border: 1px solid; line-height: 2; text-indent: 1.5em;  margin-top: 10px; 
+
+
+.center-image:hover .text {
+ opacity: 0.5;
+ margin-top: 20px;
+ }
+
+
+.li{
+    padding-top: 20px;
+    margin-top: 5; 
+    line-height: 2;
+}
